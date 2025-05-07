@@ -39,5 +39,12 @@ export default function AdminIndex({ posts }) {
         ))}
       </ul>
     </Layout>
+
+
+
+
+
+
+
   );
 }
